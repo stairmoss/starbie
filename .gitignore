@@ -1,0 +1,12 @@
+*.kicad_prl
+*_restore_backup_*
+.history/
+sym-lib-table
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bal
+*-bak-*
+_autosave-*
+*.fp-bk-bak
+/plots/
+/gerbers/
